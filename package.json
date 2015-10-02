@@ -1,0 +1,9 @@
+{
+  "name": "playTIME",
+  "version": "0.0.1",
+  "author": "Matthew McQuaid",
+  "dependencies": {
+    "jquery-deferred": "0.3.0",
+    "lodash": "*"
+  }
+}
